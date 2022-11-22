@@ -84,9 +84,9 @@ body {
 
 .card-desc {
   color: hsl(215, 51%, 70%);
-  font-size: 20px;
+  font-size: 19px;
   margin: 20px 0;
-  line-height: 28px;
+  line-height: 20px;
 }
 .offer {
   display: flex;
